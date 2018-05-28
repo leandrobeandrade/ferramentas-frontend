@@ -239,7 +239,7 @@ Sabendo disso, vamos compreender os sufixos:
 Dependendo de como forem adicionados os sufixos, o NPM poderá informar alguma incompatibilidade. Por exemplo... 
 Se utilizamos uma versão fixa e antiga do jQuery e um plugin do jQuery com asteristico (ou seja, o mais recente), esta versão não será compatível com o jQuery. Logo, o NPM irá informar e perguntar oque fazer.
 
-## 6. Dicas
+## 6. Dicas 
 * Existem algumas poucas dicas que gostaria de acrescentar.
 
 * Primeiro, a maior parte dos comandos (ver links da documentação) aceitam o parâmetro --json para exibir o resultado no formato JSON.
